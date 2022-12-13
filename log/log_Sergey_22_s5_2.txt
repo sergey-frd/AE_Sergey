@@ -1,0 +1,249 @@
+====================
+Sergey_22_s5_2 Date: Sat Dec 10 2022 11:43:45 GMT+0200
+ getRandomInt: 7
+ getRandomInt: 2
+ getRandomInt: 5
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 1
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Sergey\\xml\\ae_System_22_s5_2.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Sergey\\xml\\ae_System_22_s5_2.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221201_190556.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0008.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221202-WA0014.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0005.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0006.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221202-WA0015.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0007.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221202-WA0011.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221203_122106.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221203_122701.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0002.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0003.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0004.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_130017.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_222322.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_190712.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_190707.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_222653.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_173610.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_173831.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_173858.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0010.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221202-WA0013.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_210818.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_212642.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_203454.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_203658.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_220615.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0041.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0039.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0040.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_210822.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_210826.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_210831.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_211054.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_203249.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_210811.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0042.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_212632.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_222647.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_221007.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_221015.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_222302.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_222654.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_221016.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_221202.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_221204.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221201_192312.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_222243.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_221149.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_221158.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0038.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0009.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0011.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0012.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/Camera_2022/20221202_224116.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20221204-WA0037.jpg</pathurl>
+</Stuff>
+filePathUrl.length= 57
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221201_190556.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0008.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221202-WA0014.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0005.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 5  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0006.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 6  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221202-WA0015.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 7  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0007.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 8  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221202-WA0011.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 9  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221203_122106.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 10  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221203_122701.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 11  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0002.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 12  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0003.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 13  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0004.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 14  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_130017.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 15  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_222322.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 16  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_190712.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 17  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_190707.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 18  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_222653.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 19  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_173610.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 20  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_173831.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 21  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_173858.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 22  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0010.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 23  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221202-WA0013.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 24  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_210818.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 25  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_212642.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 26  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_203454.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 27  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_203658.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 28  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_220615.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 29  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0041.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 30  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0039.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 31  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0040.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 32  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_210822.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 33  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_210826.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 34  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_210831.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 35  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_211054.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 36  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_203249.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 37  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_210811.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 38  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0042.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 39  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_212632.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 40  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_222647.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 41  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_221007.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 42  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_221015.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 43  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_222302.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 44  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_222654.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 45  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_221016.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 46  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_221202.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 47  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_221204.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 48  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221201_192312.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 49  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_222243.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 50  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_221149.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 51  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_221158.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 52  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0038.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 53  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0009.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 54  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0011.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 55  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0012.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 56  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\Camera_2022\\20221202_224116.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 57  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20221204-WA0037.jpg
+!! Not found findItem 
+!! Not found findItem 
+====================
